@@ -1,1 +1,1 @@
-Accounts
+package main
